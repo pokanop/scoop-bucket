@@ -1,0 +1,29 @@
+{
+    "version": "0.14.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/pokanop/nostromo/releases/download/v0.14.2/nostromo_Windows_i386.zip",
+            "bin": [
+                "nostromo.exe"
+            ],
+            "hash": "0d3be7072e6adaba0257b667c14fd2f485ea2d1b6ba9dc84aa390ec00b1fd34c"
+        },
+        "64bit": {
+            "url": "https://github.com/pokanop/nostromo/releases/download/v0.14.2/nostromo_Windows_x86_64.zip",
+            "bin": [
+                "nostromo.exe"
+            ],
+            "hash": "f248d2c94d10cc34ecd5c00f3dc4ab9e4e715ca41e89e767b006b077780df0e9"
+        },
+        "arm64": {
+            "url": "https://github.com/pokanop/nostromo/releases/download/v0.14.2/nostromo_Windows_arm64.zip",
+            "bin": [
+                "nostromo.exe"
+            ],
+            "hash": "4fba4a875b8dd79518352a0ad1dcd7c251b5b3a68b26604d0087816f9f47be95"
+        }
+    },
+    "homepage": "https://nostromo.sh",
+    "license": "MIT",
+    "description": "CLI to manage aliases through simple commands to add and remove scoped aliases and substitutions."
+}
